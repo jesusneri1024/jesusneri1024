@@ -12,7 +12,9 @@ I'm a Digital Interactive Design student at Universidad Iberoamericana León wit
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusneri1024)](https://github.com/anuraghazra/github-readme-stats)
+![Neri's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusneri1024&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusneri1024)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
