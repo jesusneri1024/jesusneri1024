@@ -57,6 +57,8 @@ I'm a Digital Interactive Design student at Universidad Iberoamericana León wit
 Modular C++ graphics engine using OpenGL 4.1. Supports real-time rendering, input systems, and custom architecture.  
 *Tech: C++, OpenGL, GLFW, GLM*
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jesusneri1024&repo=myengine)](https://github.com/jesusneri1024/myengine)
+
 ### 🚀 SynapseRunner  
 Endless runner with procedural terrain, FPS mechanics, and upgrades. Retro-futuristic aesthetic.  
 *Tech: Unity, C#, Procedural Generation*
