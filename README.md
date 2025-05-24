@@ -72,10 +72,10 @@ Character animation in Maya with rigging, facial expressions, and dynamic body m
 
 ## 📫 Contact
 
-**Email:** [jesusneri1024@outlook.com]  
-**Portfolio:** [jesusneri1024.com]  (jesusneri1024.com)
+**Email:** [jesusneri1024@outlook.com](mailto:jesusneri1024@outlook.com)  
+**Portfolio:** [jesusneri1024.com](https://jesusneri1024.com)  
 **GitHub:** [github.com/jesusneri1024](https://github.com/jesusneri1024)  
-**LinkedIn:** [linkedin.com/in/jesusneri](https://linkedin.com/in/jesusneri)
+**LinkedIn:** [linkedin.com/in/jesusneri](https://linkedin.com/in/jesusneri1024)
 
 ---
 
