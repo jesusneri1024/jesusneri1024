@@ -12,6 +12,10 @@ I'm a Digital Interactive Design student at Universidad Iberoamericana León wit
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusneri1024)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 💼 Experience
 
 **12 Line Inmobiliaria**  
