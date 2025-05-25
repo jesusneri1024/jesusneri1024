@@ -63,6 +63,8 @@ Modular C++ graphics engine using OpenGL 4.1. Supports real-time rendering, inpu
 Endless runner with procedural terrain, FPS mechanics, and upgrades. Retro-futuristic aesthetic.  
 *Tech: Unity, C#, Procedural Generation*
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jesusneri1024&repo=SynapseRunner)](https://github.com/jesusneri1024/SynapseRunner)
+
 ### 🎥 Mentes en Juego  
 Short documentary exploring mental health in sports. Co-directed, filmed, and edited with professional workflows.  
 *Tech: DaVinci Resolve, RAW Footage, Production Planning*
